@@ -1,17 +1,15 @@
-# js-kata-starter
+# Diamond
 
-Starter project for kata (Node, TypeScript, Jest)
+Write a function that displays a diamond given its width `n`, a non-nul, odd, natural integer.
 
-## Installation
-
-```text
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
-npm install
-```
-
-## Development
+Example with `n = 7`:
 
 ```text
-npm test
+      *
+    * * *
+  * * * * *
+* * * * * * *
+  * * * * *
+    * * *
+      *
 ```
